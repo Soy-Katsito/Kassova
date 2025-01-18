@@ -1,5 +1,4 @@
-![KASSOVA](https://byte-storm.katsito.xyz/proyects/Kassova/POS/DEMO/main/assets/img/imp/file.png)
-
+# KASSOVA
 # [DOCUMENTACION OFICIAL](https://bytestorm.gitbook.io/byte-storm/)
 
 ## ¿Quiénes somos?
